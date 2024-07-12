@@ -1,0 +1,93 @@
+#ul{
+    background-color:#254336;
+    margin: 0%;
+    list-style: none;
+    padding: 10px 30px;
+    overflow:hidden;
+    color: #70857c;
+}
+.li{
+    float:left;
+    padding:10px 70px;
+    
+}
+.li:hover{
+    float:left;
+    padding:10px 70px;
+    background-color:#4b4e4d;
+}
+#div2
+{
+float:left;
+/* background-color: rgba(247, 97, 177, 0.693); */
+background-image: url("wildlife-photography.jpeg");
+background-size: cover;
+height:400px;
+width:100%;
+margin: 0%;
+text-align: center;
+}
+
+#text{
+    /* background-color: white; */
+    padding-top: 70px;
+    color: rgb(117, 133, 127);
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+}
+.image{
+height:400px;
+width:100%;
+}
+
+#div3
+{
+align-items: center;
+float:left;
+background-color:#92890c;
+height:1px;
+width:100%;
+}
+
+#logos{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ width: 40%;
+ padding: 1%;
+ margin: 1%;
+}
+
+#logos div{
+    border: solid black 1px;
+    border-radius: 10%;
+    width: 40px;
+    height: 40px;
+    padding: 1%;
+}
+
+#logos img{
+    width: 100%;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 2px 2px;
+    background-color: #b6f0f0;
+    color: #000;
+  }
+ @media screen and (min-width: 780px){}
+ @media screen and(min-width: 640){} 
+ @media screen and(min-width: 475px){}
+    
+    
+ 
+
+
+
